@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aditya Devadiga 👋
 
-<!--
-**adidevadiga777/adidevadiga777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX designer and web developer from Udupi, India.
 
-Here are some ideas to get you started:
+I design interfaces in Figma and build them with React and Node.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+React · Node.js · Express · MongoDB · MySQL · Tailwind CSS · Figma
+
+## Links
+
+- Portfolio: https:adityadevadiga.site
+- LinkedIn: www.linkedin.com/in/aditya-devadiga-a78467270
+- Email: adidevadiga777@gmail.com
