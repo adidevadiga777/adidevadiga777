@@ -10,6 +10,6 @@ React · Node.js · Express · MongoDB · MySQL · Tailwind CSS · Figma
 
 ## Links
 
-- Portfolio: https:adityadevadiga.site
+- Portfolio: www.adityadevadiga.site
 - LinkedIn: www.linkedin.com/in/aditya-devadiga-a78467270
 - Email: adidevadiga777@gmail.com
